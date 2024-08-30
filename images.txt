@@ -3,24 +3,4 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-memcached:1.6.29
-nginx:1.26
-redis:7.4.0
-postgres:15.8
-postgres:16.4
-python:3.12.5-bullseye
-python:3.11.9-bookworm
-mysql:8.0.39
-docker:27.2.0-dind
-bitnami/java:1.8.181-r5
-openjdk:8u292-jdk-slim
-tomcat:9.0.93-jdk8-temurin
-debian:11.10
-centos:centos7.9.2009
-centos:centos8.4.2105
-busybox:1.36.1-glibc
-alpine:3.20.2
-ubuntu:20.04
-ubuntu:22.04
-ubuntu:24.04
-maven:3.8.6-openjdk-8
+ubuntu/jre:8-22.04_48
