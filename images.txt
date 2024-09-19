@@ -6,3 +6,4 @@
 #registry.k8s.io/ingress-nginx/controller:v1.11.2
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
 openjdk:8u212-jre-slim
+bitnami/java:1.8.181-r5-prod
