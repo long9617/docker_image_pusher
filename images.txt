@@ -5,5 +5,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #registry.k8s.io/ingress-nginx/controller:v1.11.2
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
-openjdk:8u212-jre-slim
-bitnami/java:1.8.181-r5-prod
+#openjdk:8u212-jre-slim
+#bitnami/java:1.8.181-r5-prod
+gitlab/gitlab-ce:16.10.10-ce.0
