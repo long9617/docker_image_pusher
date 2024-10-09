@@ -3,17 +3,4 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#registry.k8s.io/ingress-nginx/controller:v1.11.2
-#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.3
-#openjdk:8u212-jre-slim
-#bitnami/java:1.8.181-r5-prod
-#gitlab/gitlab-ce:16.10.10-ce.0
-jenkins/jenkins:jdk17
-bitnami/postgresql:16-debian-12
-bitnami/prometheus:2.54.1-debian-12-r4
-bitnami/alertmanager:0.27.0-debian-12-r22
-bitnami/java:1.8.312-debian-10-r85
-bitnami/kubectl:1.28.14
-bitnami/kubectl:1.29.9
-bitnami/kubectl:1.30.5
-bitnami/kubectl:1.27.16
+tomcat:7.0.104-jdk8
