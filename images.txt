@@ -5,6 +5,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #tomcat:7.0.104-jdk8
 nacos/nacos-server:v2.4.3
-grafana/grafana::11.2.2-ubuntu
+grafana/grafana:11.2.2-ubuntu
 prom/prometheus:v2.55.0
 mysql:8.0.31
